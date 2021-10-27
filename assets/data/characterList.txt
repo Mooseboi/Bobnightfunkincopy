@@ -16,4 +16,5 @@ senpai
 senpai-angry
 spirit
 tankman
-bob-play
+ron
+bob
