@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="bob.png">
+<TextureAtlas imagePath="BOYFRIEND.png">
 <SubTexture name="BF idle dance0000" x="0" y="0" width="604" height="604" frameX="0" frameY="125" frameWidth="604" frameHeight="204" />
 <SubTexture name="BF idle dance0001" x="0" y="0" width="604" height="604" frameX="0" frameY="125" frameWidth="604" frameHeight="204" />
 <SubTexture name="BF idle dance0002" x="604" y="0" width="604" height="604" frameX="0" frameY="125" frameWidth="604" frameHeight="204" />
